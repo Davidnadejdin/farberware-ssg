@@ -1,0 +1,93 @@
+@font-face {
+    font-family: "Gilroy";
+    src: url("../assets/fonts/Gilroy-Regular.woff2") format("woff2");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Gilroy";
+    src: url("../assets/fonts/Gilroy-Bold.woff2") format("woff2");
+    font-weight: 700;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    font-family: 'Gilroy', sans-serif;
+    font-weight: 400;
+    box-sizing: border-box;
+    font-size: 12px;
+    line-height: 2;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-background);
+    color: var(--color-text);
+}
+
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+h2 {
+    margin: 0 0 21px;
+    font-family: 'Gilroy', sans-serif;
+    font-size: 16px;
+    line-height: 2;
+    font-weight: 700;
+    color: var(--color-button);
+    text-align: center;
+}
+
+
+h2::after {
+    content: '';
+    display: inline-block;
+    vertical-align: bottom;
+    width: 8px;
+    height: 17px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='17' viewBox='0 0 8 17' fill='none'%3E%3Cline x1='1.5' y1='2.18557e-08' x2='1.5' y2='10' stroke='%2309476A'/%3E%3Cpath d='M3.64645 16.3536C3.84171 16.5488 4.15829 16.5488 4.35355 16.3536L7.53553 13.1716C7.7308 12.9763 7.7308 12.6597 7.53553 12.4645C7.34027 12.2692 7.02369 12.2692 6.82843 12.4645L4 15.2929L1.17157 12.4645C0.97631 12.2692 0.659728 12.2692 0.464466 12.4645C0.269203 12.6597 0.269203 12.9763 0.464466 13.1716L3.64645 16.3536ZM3.5 -2.18557e-08L3.5 16L4.5 16L4.5 2.18557e-08L3.5 -2.18557e-08Z' fill='%2309476A'/%3E%3C/svg%3E");
+}
+
+h3, p {
+    margin: 0;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    border: 0;
+    white-space: nowrap;
+    -webkit-clip-path: inset(100%);
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+
+@media (min-width: 1100px) {
+    * {
+        font-size: 18px;
+    }
+
+    h2 {
+        font-size: 36px;
+        line-height: 1.25;
+        margin-bottom: 46px;
+    }
+
+    h2::after {
+        width: 19px;
+        height: 40px;
+    }
+}

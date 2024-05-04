@@ -1,0 +1,30 @@
+---
+const path = import.meta.env.PUBLIC_URL;
+const { product } = Astro.props;
+const getHref = function (breadcrumb)  {
+    let str = breadcrumb.toLowerCase();
+    str = str.split(' ');
+    str = str.length > 1 ? str.join('-') : str.join('');
+    return str;
+}
+---
+
+<div class="breadcrumbs">
+    <ul class="breadcrumbs__list">
+        <li class="breadcrumbs__item">
+            <a class="breadcrumbs__link" href=`${path}`>
+                Home
+            </a>
+        </li>
+        <li class="breadcrumbs__item">
+            <a class="breadcrumbs__link" href=`${path}${getHref(product.breadcrumb)}`>
+                {product.breadcrumb}
+            </a>
+        </li>
+        <li class="breadcrumbs__item breadcrumbs__item--current">
+            <a class="breadcrumbs__link">
+                {product.title}
+            </a>
+        </li>
+    </ul>
+</div>

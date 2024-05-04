@@ -1,0 +1,15 @@
+---
+const path = import.meta.env.PUBLIC_URL;
+const { SKU , category} = Astro.props;
+---
+
+<li class="catalog__item">
+    <a href={`/astro-test/catalog/${SKU}`}>
+        <div class="catalog__item-img-container">
+            <img src=`${path}assets/img/${category}/${SKU}.png`>
+        </div>
+        <div class="catalog__item-description">
+            <p>{SKU}</p>
+        </div>
+    </a>
+</li>

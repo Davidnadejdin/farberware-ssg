@@ -1,0 +1,28 @@
+---
+import Layout from "../layouts/Layout.astro";
+import data from "../data.json"
+import Card from "../components/Card.astro";
+const path = import.meta.env.PUBLIC_URL;
+---
+
+<Layout title="Water Dispensers">
+    <div class="poster">
+        <img src=`${path}assets/img/water-poster.jpg` alt="FARBERWARE High Technology in your kitchen - Water Dispensers">
+    </div>
+    <div class="catalog">
+        <div class="catalog__container">
+            <h2>TOP LOADING WATER DISPENSERS</h2>
+            <ul class="catalog__list">
+                {data.filter((item) => item.category === 'waterDispensers' && item.subCategory === 'topLoadWaterDispensers').map((item) => (
+                        <Card SKU={item.SKU} category={item.category}></Card>
+                ))}
+            </ul>
+            <h2>THERMO-ELECTRIC WATER DISPENSER</h2>
+            <ul class="catalog__list">
+                {data.filter((item) => item.category === 'waterDispensers' && item.subCategory === 'thermoElectricWaterDispensers').map((item) => (
+                        <Card SKU={item.SKU} category={item.category}></Card>
+                ))}
+            </ul>
+        </div>
+    </div>
+</Layout>

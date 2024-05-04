@@ -1,0 +1,10 @@
+:root {
+    --color-background: rgba(255, 255, 255, 1);
+    --color-footer: rgba(7, 79, 113, 1);
+    --color-header: rgba(7, 79, 113, 1);
+    --color-button: rgba(9, 71, 106, 1);
+    --color-button--hover: rgba(83, 85, 85, 1);
+    --color-navigation: rgba(165, 165, 165, 1);
+    --color-text: rgba(0, 0, 0, 1);
+    --color-banner: rgba(212, 137, 62, 1);
+}

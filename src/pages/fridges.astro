@@ -1,0 +1,40 @@
+---
+import Layout from "../layouts/Layout.astro";
+import data from "../data.json"
+import Card from "../components/Card.astro";
+const path = import.meta.env.PUBLIC_URL;
+---
+
+<Layout title="Fridges">
+    <div class="poster">
+        <img src=`${path}assets/img/fridge-poster.jpg` alt="FARBERWARE High Technology in your kitchen - Fridges">
+    </div>
+    <div class="catalog">
+        <div class="catalog__container">
+            <h2>TOP MOUNT REFRIGERATORS <sup>FROST FREE</sup></h2>
+            <ul class="catalog__list">
+                {data.filter((item) => item.category === 'refrigerators' && item.subCategory === 'topMountRefrigeratorsFrostFree').map((item) => (
+                        <Card SKU={item.SKU} category={item.category}></Card>
+                ))}
+            </ul>
+            <h2>BOTTOM MOUNT REFRIGERATORS <sup>FROST FREE</sup></h2>
+            <ul class="catalog__list">
+                {data.filter((item) => item.category === 'refrigerators' && item.subCategory === 'bottomMountRefrigeratorsFrostFree').map((item) => (
+                        <Card SKU={item.SKU} category={item.category}></Card>
+                ))}
+            </ul>
+            <h2>TOP MOUNT REFRIGERATORS <sup>MANUAL DEFROST</sup></h2>
+            <ul class="catalog__list">
+                {data.filter((item) => item.category === 'refrigerators' && item.subCategory === 'topMountRefrigeratorsManualDefrost').map((item) => (
+                    <Card SKU={item.SKU} category={item.category}></Card>
+                ))}
+            </ul>
+            <h2>COMPACT REFRIGERATORS</h2>
+            <ul class="catalog__list">
+                {data.filter((item) => item.category === 'refrigerators' && item.subCategory === 'compactRefrigerators').map((item) => (
+                        <Card SKU={item.SKU} category={item.category}></Card>
+                ))}
+            </ul>
+        </div>
+    </div>
+</Layout>

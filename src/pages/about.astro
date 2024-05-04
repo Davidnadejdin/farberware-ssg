@@ -1,0 +1,71 @@
+---
+import Layout from '../layouts/Layout.astro'
+const path = import.meta.env.PUBLIC_URL;
+---
+
+<Layout>
+    <div class="video">
+        <video class="banner-video" controls loop autoplay muted playsinline style="object-position: center;">
+            <source src=`${path}assets/video/0311.mp4` type="video/mp4">
+        </video>
+    </div>
+
+    <div class="about-info">
+        <div class="about-info__container">
+            <h2 class="about-info__title">
+                About the Brand
+            </h2>
+            <img class="about-info__notebook-image" src=`${path}assets/img/notebook.jpg` alt="">
+            <img class="about-info__timeline-image" src=`${path}assets/img/timeline.png`>
+            <p>Over the years, Farberware has remained dedicated to simplifying the cooking experience for home chefs. With a diverse range of durable and innovative products, including fridges, water dispensers, and ice makers, we're committed to providing solutions that make everyday tasks more efficient and enjoyable.
+                We prioritize adding significant value to our products, meticulously crafting designs informed by thorough customer research and addressing their needs. Each product we develop is backed by our unwavering commitment to ensuring complete customer satisfaction.
+                <br>
+                Since 1900, our dedication to simplifying everyday cooking for home cooks has remained steadfast
+            </p>
+
+        </div>
+    </div>
+
+    <div class="reviews">
+        <h2 class="reviews__title">Reviews</h2>
+        <div class="slider-container">
+            <div class="swiper swiper1">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <p>
+                            Ice on Demand: Faberware's ice makers are a game-changer for any household. With rapid ice production and easy operation,
+                            I never worry about running out of ice, whether it's for a party or a relaxing evening at home.
+
+                        </p>
+                        <span>Rob B.</span>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <p>
+                            Fridge for Every Need: Faberware's fridge offers spacious storage and adjustable features, making it perfect for any home.
+                            Quiet and efficient, it keeps food fresh for longer, catering to busy families or individuals alike.
+
+                        </p>
+                        <span>Dina C.</span>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <p>
+                            Reliable Home Essentials: Faberware appliances have become essential in my household. With quality craftsmanship and innovative features,
+                            they deliver dependable performance every time. I highly recommend Faberware for anyone seeking reliable and efficient home appliances
+                        </p>
+                        <span>Alex F.</span>
+                    </div>
+
+
+
+                </div>
+                <div class="swiper-pagination-container">
+                    <div class="button-prev prev1">prev</div>
+                    <div class="swiper-pagination"></div>
+                    <div class="button-next next1">next</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</Layout>

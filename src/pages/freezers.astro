@@ -1,0 +1,28 @@
+---
+import Layout from "../layouts/Layout.astro";
+import data from "../data.json"
+import Card from "../components/Card.astro";
+const path = import.meta.env.PUBLIC_URL;
+---
+
+<Layout title="Freezers">
+    <div class="poster">
+        <img src=`${path}assets/img/freezer-poster.jpg` alt="FARBERWARE High Technology in your kitchen - Freezers">
+    </div>
+    <div class="catalog">
+        <div class="catalog__container">
+            <h2>CHEST FREEZERS</h2>
+            <ul class="catalog__list">
+                {data.filter((item) => item.category === 'freezers' && item.subCategory === 'chestFreezers').map((item) => (
+                        <Card SKU={item.SKU} category={item.category}></Card>
+                ))}
+            </ul>
+            <h2>UPRIGHT FREEZERS</h2>
+            <ul class="catalog__list">
+                {data.filter((item) => item.category === 'freezers' && item.subCategory === 'uprightFreezers').map((item) => (
+                        <Card SKU={item.SKU} category={item.category}></Card>
+                ))}
+            </ul>
+        </div>
+    </div>
+</Layout>

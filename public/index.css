@@ -1,0 +1,15 @@
+@import "styles/base.css";
+@import "styles/variables.css";
+@import "styles/header.css";
+@import "styles/about-brand.css";
+@import "styles/button.css";
+@import "styles/catalog.css";
+@import "styles/categories.css";
+@import "styles/contacts.css";
+@import "styles/footer.css";
+@import "styles/map.css";
+@import "styles/poster.css";
+@import "styles/reviews.css";
+@import "styles/video.css";
+@import "styles/breadcrumbs.css";
+@import "styles/catalog-card.css";

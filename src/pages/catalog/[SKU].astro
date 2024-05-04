@@ -1,0 +1,86 @@
+---
+import data from "../../data.json"
+import Layout from "../../layouts/Layout.astro";
+import Breadcrumbs from "../../components/catalog/Breadcrumbs.astro";
+const path = import.meta.env.PUBLIC_URL;
+
+export async function getStaticPaths() {
+    const posts = data;
+    return posts.map((product) => {
+        return {
+            params: {SKU: product.SKU},
+            props: {product}
+        };
+    });
+}
+const {SKU} = Astro.params;
+const {product} = Astro.props;
+---
+
+<Layout>
+    <Breadcrumbs product={product}/>
+
+    <div class="catalog-card">
+        <div class="catalog-card__block">
+            <img class="catalog-card__image" src=`${path}assets/img/${product.category}/${SKU}.png`
+                 alt=`${product.title}`>
+            <ul class="catalog-card__features-list">
+                {product.features.map((item) => {
+                        return Array.isArray(item) ?
+                                <li class="catalog-card__features-item">
+                                    <div class="catalog-card__features-circle">
+                                        <span>{item[0]}</span>
+                                        <span>{item[1]}</span>
+                                    </div>
+                                    <p class="catalog-card__features-item-description">{item[2]}</p>
+                                </li> :
+                                <li class="catalog-card__features-item">
+                                    <div class=`catalog-card__icon catalog-card__icon--${item.icon}`>
+                                    </div>
+                                    <p class="catalog-card__features-item-description">{item.description}</p>
+                                </li>
+                    }
+                )}
+            </ul>
+        </div>
+        <div class="catalog-card__block">
+            <h3 class="catalog-card__title">{product.title}</h3>
+            <p class="catalog-card__info-feature">
+                {product.features[0].map((x) => {
+                    return x + " "
+                })}
+            </p>
+            <ul class="catalog-card__info-list">
+                {
+                    product.info.map((x) => {
+                        return <li class="catalog-card__info-list-item">{x}</li>
+                    })
+                }
+            </ul>
+            <ul class="catalog-card__info-additional-list">
+                <li class="catalog-card__info-additional-list-item">
+                    <span>SKU</span>
+                    <span>{product.SKU}</span>
+                </li>
+                <li class="catalog-card__info-additional-list-item">
+                    <span>Product Dimensions </span>
+                    <span>{product.dimensions}</span>
+                </li>
+                <li class="catalog-card__info-additional-list-item">
+                    <a href="#">Warranty</a>
+                </li>
+            </ul>
+            {product.colors &&
+                    <div class="catalog-card__info-colors">
+                        <span>Available Colors:</span>
+                        <ul>
+                            {product.colors.map((x) => {
+                                return <li class=`catalog-card__info-colors-item catalog-card__info-colors-item--${x}`></li>
+                            })}
+                        </ul>
+                    </div>
+            }
+
+        </div>
+    </div>
+</Layout>

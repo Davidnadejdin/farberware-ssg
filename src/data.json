@@ -1,0 +1,1295 @@
+[
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "topMountRefrigeratorsFrostFree",
+    "SKU": "FW-TRF342",
+    "dimensions": "27.8x26.3x65.9",
+    "colors": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "title": "Top Mount Refrigerator\nwith Water Dispenser",
+    "info": [
+      "Total NO Frost",
+      "Electronic Temperature Control",
+      "Interior LED Light",
+      "Crisper Drawer with Humidity Control",
+      "Reversible Door",
+      "Glass Shelves + Door Racks",
+      "Crystal Crisper Drawers"
+    ],
+    "features": [
+      [
+        "14.6",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "inverterCompressor",
+        "description": "Inverter Compressor"
+      },
+      {
+        "icon": "waterDispenser",
+        "description": "Water Dispenser"
+      }
+    ]
+  },
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "topMountRefrigeratorsFrostFree",
+    "SKU": "FW-TRF302",
+    "dimensions": "23.6x25.3x63.3",
+    "colors": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "title": "Top Mount Refrigerator\nwith Water Dispenser",
+    "info": [
+      "Total NO Frost",
+      "Electronic Temperature Control",
+      "Interior LED Light",
+      "Crisper Drawer with Humidity Control",
+      "Reversible Door",
+      "Glass Shelves + Door Racks",
+      "Crystal Crisper Drawers"
+    ],
+    "features": [
+      [
+        "10.5",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "inverterCompressor",
+        "description": "Inverter Compressor"
+      },
+      {
+        "icon": "waterDispenser",
+        "description": "Water Dispenser"
+      }
+    ]
+  },
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "topMountRefrigeratorsFrostFree",
+    "SKU": "FW-TRF282",
+    "dimensions": "23.6x25.3x63.3",
+    "colors": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "title": "Top Mount Refrigerator",
+    "info": [
+      "Total NO Frost",
+      "Electronic Temperature Control",
+      "Interior LED Light",
+      "Crisper Drawer with Humidity Control",
+      "Reversible Door",
+      "Glass Shelves + Door Racks",
+      "Crystal Crisper Drawers"
+    ],
+    "features": [
+      [
+        "10.1",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "inverterCompressor",
+        "description": "Inverter Compressor"
+      },
+      {
+        "icon": "interiorLight",
+        "description": "Interior Light"
+      }
+    ]
+  },
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "topMountRefrigeratorsFrostFree",
+    "SKU": "FW-TRF262",
+    "dimensions": "21.2x21.2x57.9",
+    "colors": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "title": "Top Mount Refrigerator\nwith Water Dispenser",
+    "info": [
+      "Total NO Frost",
+      "Electronic Temperature Control",
+      "Interior LED Light",
+      "Crisper Drawer with Humidity Control",
+      "Reversible Door",
+      "Glass Shelves + Door Racks",
+      "Crystal Crisper Drawers"
+    ],
+    "features": [
+      [
+        "8.6",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "inverterCompressor",
+        "description": "Inverter Compressor"
+      },
+      {
+        "icon": "waterDispenser",
+        "description": "Water Dispenser"
+      }
+    ]
+  },
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "topMountRefrigeratorsFrostFree",
+    "SKU": "FW-TRF292",
+    "dimensions": "21.7x23.6x56.3",
+    "colors": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "title": "Top Mount Refrigerator",
+    "info": [
+      "Total NO Frost",
+      "Electronic Temperature Control",
+      "Interior LED Light",
+      "Crisper Drawer with Humidity Control",
+      "Reversible Door",
+      "Glass Shelves + Door Racks",
+      "Crystal Crisper Drawers"
+    ],
+    "features": [
+      [
+        "7.0",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "inverterCompressor",
+        "description": "Inverter Compressor"
+      },
+      {
+        "icon": "interiorLight",
+        "description": "Interior Light"
+      }
+    ]
+  },
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "bottomMountRefrigeratorsFrostFree",
+    "SKU": "FW-BRF232",
+    "dimensions": "TBD",
+    "colors": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "title": "Bottom Mount Refrigerator",
+    "info": [
+      "Total NO Frost",
+      "Mechanical Temperature Control",
+      "Interior LED Light",
+      "RecessedHandle",
+      "Glass Shelves + Door Racks",
+      "Crystal Crisper Drawers"
+    ],
+    "features": [
+      [
+        "7.4",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "interiorLight",
+        "description": "Interior Light"
+      }
+    ]
+  },
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "topMountRefrigeratorsManualDefrost",
+    "SKU": "FW-TRF782",
+    "dimensions": "21.34x21.42x56.34",
+    "colors": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "title": "Top Mount Refrigerator",
+    "info": [
+      "Mechanical Temperature Control",
+      "Interior LED Light",
+      "Crystal Crisper Drawer",
+      "Reversible Door",
+      "Glass Shelves",
+      "Door Racks",
+      "Crystal Crisper Drawers",
+      "Manual Defrost"
+    ],
+    "features": [
+      [
+        "7.4",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "interiorLight",
+        "description": "Interior Light"
+      }
+    ]
+  },
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "topMountRefrigeratorsManualDefrost",
+    "SKU": "FW-TRF202",
+    "dimensions": "21.2x21.2x57.9",
+    "colors": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "title": "Top Mount Refrigerator\nwith Water Dispenser",
+    "info": [
+      "Electronic Temperature Control",
+      "Interior LED Light",
+      "Crisper Drawer with Humidity Control",
+      "Reversible Door",
+      "Manual Defrost",
+      "Glass Shelves + Door Racks",
+      "Crystal Crisper Drawers"
+    ],
+    "features": [
+      [
+        "7.4",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "inverterCompressor",
+        "description": "Inverter Compressor"
+      },
+      {
+        "icon": "waterDispenser",
+        "description": "Water Dispenser"
+      }
+    ]
+  },
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "topMountRefrigeratorsManualDefrost",
+    "SKU": "FW-TRF362",
+    "dimensions": "TBD",
+    "colors": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "title": "Single Door Refrigerator",
+    "info": [
+      "Mechanical Temperature Control",
+      "Interior LED Light",
+      "Crystal Crisper Drawer",
+      "Reversible Door",
+      "Glass Shelves",
+      "Door Racks",
+      "Crystal Crisper Drawers",
+      "Manual Defrost"
+    ],
+    "features": [
+      [
+        "6.4",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "interiorLight",
+        "description": "Interior Light"
+      }
+    ]
+  },
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "topMountRefrigeratorsManualDefrost",
+    "SKU": "FW-TSD102",
+    "dimensions": "20.6x21.7x51",
+    "colors": [
+      "white",
+      "black",
+      "grey"
+    ],
+    "title": "Refrigerator With Water Dispenser",
+    "info": [
+      "Mechanical Temperature Control",
+      "Interior LED Light",
+      "Crystal Crisper Drawer",
+      "Reversible Door",
+      "Glass Shelves",
+      "Door Racks",
+      "Crystal Crisper Drawers",
+      "Manual Defrost"
+    ],
+    "features": [
+      [
+        "6.2",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "waterDispenser",
+        "description": "Water Dispenser"
+      }
+    ]
+  },
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "compactRefrigerators",
+    "SKU": "FW-CRF422",
+    "dimensions": "19.02x20.67x40.71",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "title": "Double Door Compact Refrigerator",
+    "info": [
+      "Adjustable Temperature ",
+      "Recessed Handle",
+      "Reversible Door",
+      "2 Glass Shelves",
+      "Tall Bottle Storage",
+      "Manual Defrost"
+    ],
+    "features": [
+      [
+        "4.5",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "interiorLight",
+        "description": "Water Dispenser"
+      }
+    ]
+  },
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "compactRefrigerators",
+    "SKU": "FW-CRF161",
+    "dimensions": "17.8x19.5x34",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "title": "Double Door Compact Refrigerator",
+    "info": [
+      "Adjustable Temperature ",
+      "Recessed Handle",
+      "Reversible Door",
+      "2 Glass Shelves",
+      "Tall Bottle Storage",
+      "Manual Defrost"
+    ],
+    "features": [
+      [
+        "3.1",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "interiorLight",
+        "description": "Water Dispenser"
+      }
+    ]
+  },
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "compactRefrigerators",
+    "SKU": "FW-CRF131",
+    "dimensions": "20x21.4x31.8",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "title": "Compact Refrigerator",
+    "info": [
+      "Freezer Compartment",
+      "Glass Shelves",
+      "Beverage Can Dispenser",
+      "Door Basket 2L",
+      "Adjustable Temperature ",
+      "Reversible Door",
+      "Manual Defrost",
+      "Compressor Cooling"
+    ],
+    "features": [
+      [
+        "4.5",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "interiorLight",
+        "description": "Water Dispenser"
+      }
+    ]
+  },
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "compactRefrigerators",
+    "SKU": "FW-CRF351",
+    "dimensions": "18.5x17.3x32.8",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "title": "Compact Refrigerator",
+    "info": [
+      "Freezer Compartment",
+      "Glass Shelves",
+      "Beverage Can Dispenser",
+      "Door Basket 2L",
+      "Adjustable Temperature ",
+      "Reversible Door",
+      "Manual Defrost",
+      "Compressor Cooling"
+    ],
+    "features": [
+      [
+        "3.1",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "interiorLight",
+        "description": "Water Dispenser"
+      }
+    ]
+  },
+  {
+    "category": "refrigerators",
+    "breadcrumb": "Fridges",
+    "subCategory": "compactRefrigerators",
+    "SKU": "FW-CRF251",
+    "dimensions": "18.5x17.3x19.2",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "title": "Compact Refrigerator",
+    "info": [
+      "Freezer Compartment",
+      "Wire Shelves",
+      "Adjustable Temperature ",
+      "Reversible Door",
+      "Manual Defrost",
+      "Compressor Cooling"
+    ],
+    "features": [
+      [
+        "1.6",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "freezerCompartment",
+        "description": "Freezer Compartment"
+      }
+    ]
+  },
+  {
+    "category": "freezers",
+    "breadcrumb": "Freezers",
+    "subCategory": "chestFreezers",
+    "SKU": "FW-CFR251",
+    "dimensions": "44.1x25x33.8",
+    "title": "Chest Freezer",
+    "info": [
+      "Mechanical Temperature Control",
+      "Wire Basket Included",
+      "Manual Defrost",
+      "Adjustable Leg & Caster Wheels",
+      "Power Indicator Light",
+      "R600a Refrigerant"
+    ],
+    "features": [
+      [
+        "25.0",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "garageReady",
+        "description": "Garage Ready"
+      }
+    ]
+  },
+  {
+    "category": "freezers",
+    "breadcrumb": "Freezers",
+    "subCategory": "chestFreezers",
+    "SKU": "FW-CFR211",
+    "dimensions": "44.1x25x33.8",
+    "title": "Chest Freezer",
+    "info": [
+      "Mechanical Temperature Control",
+      "Wire Basket Included",
+      "Manual Defrost",
+      "Adjustable Leg & Caster Wheels",
+      "Power Indicator Light",
+      "R600a Refrigerant"
+    ],
+    "features": [
+      [
+        "21.0",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "garageReady",
+        "description": "Garage Ready"
+      }
+    ]
+  },
+  {
+    "category": "freezers",
+    "breadcrumb": "Freezers",
+    "subCategory": "chestFreezers",
+    "SKU": "FW-CFR181",
+    "dimensions": "44.1x25x33.8",
+    "title": "Chest Freezer",
+    "info": [
+      "Mechanical Temperature Control",
+      "Wire Basket Included",
+      "Manual Defrost",
+      "Adjustable Leg & Caster Wheels",
+      "Power Indicator Light",
+      "R600a Refrigerant"
+    ],
+    "features": [
+      [
+        "18.4",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "garageReady",
+        "description": "Garage Ready"
+      }
+    ]
+  },
+  {
+    "category": "freezers",
+    "breadcrumb": "Freezers",
+    "subCategory": "chestFreezers",
+    "SKU": "FW-CFR141",
+    "dimensions": "44.1x25x33.8",
+    "title": "Chest Freezer",
+    "info": [
+      "Mechanical Temperature Control",
+      "Wire Basket Included",
+      "Manual Defrost",
+      "Adjustable Leg & Caster Wheels",
+      "Power Indicator Light",
+      "R600a Refrigerant"
+    ],
+    "features": [
+      [
+        "14.0",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "garageReady",
+        "description": "Garage Ready"
+      }
+    ]
+  },
+  {
+    "category": "freezers",
+    "breadcrumb": "Freezers",
+    "subCategory": "chestFreezers",
+    "SKU": "FW-CFR101",
+    "dimensions": "44.1x25x33.8",
+    "title": "Chest Freezer",
+    "info": [
+      "Mechanical Temperature Control",
+      "Wire Basket Included",
+      "Manual Defrost",
+      "Adjustable Leg & Caster Wheels",
+      "Power Indicator Light",
+      "R600a Refrigerant"
+    ],
+    "features": [
+      [
+        "10.0",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "garageReady",
+        "description": "Garage Ready"
+      }
+    ]
+  },
+  {
+    "category": "freezers",
+    "breadcrumb": "Freezers",
+    "subCategory": "chestFreezers",
+    "SKU": "FW-CFR071",
+    "dimensions": "31.5x22x33.6",
+    "title": "Chest Freezer",
+    "info": [
+      "Mechanical Temperature Control",
+      "Wire Basket Included",
+      "Manual Defrost",
+      "Adjustable Leg & Caster Wheels",
+      "Power Indicator Light",
+      "R600a Refrigerant"
+    ],
+    "features": [
+      [
+        "7.0",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "garageReady",
+        "description": "Garage Ready"
+      }
+    ]
+  },
+  {
+    "category": "freezers",
+    "breadcrumb": "Freezers",
+    "subCategory": "chestFreezers",
+    "SKU": "FW-CFR051",
+    "dimensions": "21.5x18.8x33.6",
+    "title": "Chest Freezer",
+    "info": [
+      "Mechanical Temperature Control",
+      "Wire Basket Included",
+      "Manual Defrost",
+      "Adjustable Leg & Caster Wheels",
+      "Power Indicator Light",
+      "R600a Refrigerant"
+    ],
+    "features": [
+      [
+        "5.0",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "garageReady",
+        "description": "Garage Ready"
+      }
+    ]
+  },
+  {
+    "category": "freezers",
+    "breadcrumb": "Freezers",
+    "subCategory": "chestFreezers",
+    "SKU": "FW-CFR041",
+    "dimensions": "21.5x18.8x33.6",
+    "title": "Chest Freezer",
+    "info": [
+      "Mechanical Temperature Control",
+      "Wire Basket Included",
+      "Manual Defrost",
+      "Adjustable Leg & Caster Wheels",
+      "Power Indicator Light",
+      "R600a Refrigerant"
+    ],
+    "features": [
+      [
+        "4.7",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "garageReady",
+        "description": "Garage Ready"
+      }
+    ]
+  },
+  {
+    "category": "freezers",
+    "breadcrumb": "Freezers",
+    "subCategory": "chestFreezers",
+    "SKU": "FW-CFR031",
+    "dimensions": "21.5x18.8x33.6",
+    "title": "Chest Freezer",
+    "info": [
+      "Mechanical Temperature Control",
+      "Wire Basket Included",
+      "Manual Defrost",
+      "Adjustable Leg & Caster Wheels",
+      "Power Indicator Light",
+      "R600a Refrigerant"
+    ],
+    "features": [
+      [
+        "3.5",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "garageReady",
+        "description": "Garage Ready"
+      }
+    ]
+  },
+  {
+    "category": "freezers",
+    "breadcrumb": "Freezers",
+    "subCategory": "uprightFreezers",
+    "SKU": "FW-UFR111",
+    "dimensions": "23.9x58.7x29",
+    "title": "Upright Freezer",
+    "info": [
+      "Freezer Compartment 10.1 Cu.Ft.",
+      "Wire Shelves",
+      "Mechanical Temperature Control",
+      "Reversible Door",
+      "Manual Defrost",
+      "Adjustable Leg",
+      "Rollers For Easy Movement"
+    ],
+    "features": [
+      [
+        "10.1",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "garageReady",
+        "description": "Garage Ready"
+      }
+    ]
+  },
+  {
+    "category": "freezers",
+    "breadcrumb": "Freezers",
+    "subCategory": "uprightFreezers",
+    "SKU": "FW-UFR861",
+    "dimensions": "23.6x58.7x25.6",
+    "title": "Upright Freezer",
+    "info": [
+      "Freezer Compartment 8.6 Cu.Ft.",
+      "Wire Shelves",
+      "Mechanical Temperature Control",
+      "Reversible Door",
+      "Manual Defrost",
+      "Adjustable Leg",
+      "Rollers For Easy Movement"
+    ],
+    "features": [
+      [
+        "8.6",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "garageReady",
+        "description": "Garage Ready"
+      }
+    ]
+  },
+  {
+    "category": "freezers",
+    "breadcrumb": "Freezers",
+    "subCategory": "uprightFreezers",
+    "SKU": "FW-UFR681",
+    "dimensions": "21.2x23.4x57.2",
+    "title": "Upright Freezer",
+    "info": [
+      "Freezer Compartment 7.0 Cu.Ft.",
+      "Wire Shelves",
+      "Mechanical Temperature Control",
+      "Reversible Door",
+      "Manual Defrost",
+      "Adjustable Leg",
+      "Rollers For Easy Movement"
+    ],
+    "features": [
+      [
+        "7.0",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "garageReady",
+        "description": "Garage Ready"
+      }
+    ]
+  },
+  {
+    "category": "freezers",
+    "breadcrumb": "Freezers",
+    "subCategory": "uprightFreezers",
+    "SKU": "FW-UFR151",
+    "dimensions": "21.7x22.8x55.9",
+    "title": "Upright Freezer",
+    "info": [
+      "Freezer Compartment 5.7 Cu.Ft.",
+      "Wire Shelves",
+      "Mechanical Temperature Control",
+      "Reversible Door",
+      "Manual Defrost",
+      "Adjustable Leg",
+      "Rollers For Easy Movement"
+    ],
+    "features": [
+      [
+        "5.7",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "garageReady",
+        "description": "Garage Ready"
+      }
+    ]
+  },
+  {
+    "category": "freezers",
+    "breadcrumb": "Freezers",
+    "subCategory": "uprightFreezers",
+    "SKU": "FW-UFR341",
+    "dimensions": "21.7x22.8x33.5",
+    "title": "Upright Freezer",
+    "info": [
+      "Freezer Compartment 3.4 Cu.Ft.",
+      "Wire Shelves",
+      "Mechanical Temperature Control",
+      "Reversible Door",
+      "Manual Defrost",
+      "Adjustable Leg",
+      "Rollers For Easy Movement"
+    ],
+    "features": [
+      [
+        "3.4",
+        "Cu.Ft.",
+        "Capacity"
+      ],
+      {
+        "icon": "adjustableTemperature",
+        "description": "Adjustable Temperature"
+      },
+      {
+        "icon": "garageReady",
+        "description": "Garage Ready"
+      }
+    ]
+  },
+  {
+    "category": "iceMakers",
+    "breadcrumb": "Ice Makers",
+    "subCategory": "iceMakers",
+    "SKU": "FW-IM818",
+    "dimensions": "TBD",
+    "title": "Portable Ice Maker",
+    "info": [
+      "Bullet Ice Cubes",
+      "1.5 Liter Water Tank Capacity",
+      "Ice Full / Low Water Indicator",
+      "24 Hour Ice Production 12 Kg"
+    ],
+    "features": [
+      [
+        "26",
+        "Lbs.",
+        "Per Day"
+      ],
+      [
+        "1.5",
+        "Liter",
+        "Water Tank"
+      ],
+      {
+        "icon": "iceCubes",
+        "description": "Bullet Ice Cubes"
+      }
+    ]
+  },
+  {
+    "category": "iceMakers",
+    "breadcrumb": "Ice Makers",
+    "subCategory": "iceMakers",
+    "SKU": "FW-IM270",
+    "dimensions": "12.12x8.82x11.14",
+    "title": "Portable Ice Maker",
+    "info": [
+      "Bullet Ice Cubes",
+      "1.6 Liter Water Tank Capacity",
+      "Ice Full / Low Water Indicator",
+      "24 Hour Ice Production 12 Kg"
+    ],
+    "features": [
+      [
+        "26",
+        "Lbs.",
+        "Per Day"
+      ],
+      [
+        "1.6",
+        "Liter",
+        "Water Tank"
+      ],
+      {
+        "icon": "iceCubes",
+        "description": "Bullet Ice Cubes"
+      }
+    ]
+  },
+  {
+    "category": "iceMakers",
+    "breadcrumb": "Ice Makers",
+    "subCategory": "iceMakers",
+    "SKU": "FW-IM711",
+    "dimensions": "12.12x8.82x11.14",
+    "title": "Portable Ice Maker",
+    "info": [
+      "Bullet Ice Cubes",
+      "1.6 Liter Water Tank Capacity",
+      "Ice Full / Low Water Indicator",
+      "24 Hour Ice Production 12 Kg"
+    ],
+    "features": [
+      [
+        "22",
+        "Lbs.",
+        "Per Day"
+      ],
+      [
+        "1.6",
+        "Liter",
+        "Water Tank"
+      ],
+      {
+        "icon": "iceCubes",
+        "description": "Bullet Ice Cubes"
+      }
+    ]
+  },
+  {
+    "category": "waterDispensers",
+    "breadcrumb": "Water Dispensers",
+    "subCategory": "topLoadWaterDispensers",
+    "SKU": "FW-WD129",
+    "dimensions": "11x13x39.4",
+    "title": "Top Loading Water Dispenser With Ice Maker",
+    "info": [
+      "Mechanical Temperature Control",
+      "Wire Basket Included",
+      "Manual Defrost",
+      "Adjustable Leg & Caster Wheels",
+      "Power Indicator Light",
+      "R600a Refrigerant"
+    ],
+    "features": [
+      [
+        "5",
+        "Cu.Ft.",
+        "Gallon Capacity"
+      ],
+      {
+        "icon": "hot&ColdWater",
+        "description": "Hot & Cold Water"
+      },
+      {
+        "icon": "compressorCooling",
+        "description": "Compressor Cooling"
+      }
+    ]
+  },
+  {
+    "category": "waterDispensers",
+    "breadcrumb": "Water Dispensers",
+    "subCategory": "topLoadWaterDispensers",
+    "SKU": "PS-WD988",
+    "dimensions": "13.5x12.8x40.6",
+    "title": "Top Loading Water Dispenser",
+    "info": [
+      "Compressor Cooling",
+      "Hot & Cold Water",
+      "5 Gallon Tank Capacity",
+      "Low Noise",
+      "Child Safety Lock"
+    ],
+    "features": [
+      [
+        "5",
+        "Cu.Ft.",
+        "Gallon Capacity"
+      ],
+      {
+        "icon": "hot&ColdWater",
+        "description": "Hot & Cold Water"
+      },
+      {
+        "icon": "compressorCooling",
+        "description": "Compressor Cooling"
+      }
+    ]
+  },
+  {
+    "category": "waterDispensers",
+    "breadcrumb": "Water Dispensers",
+    "subCategory": "topLoadWaterDispensers",
+    "SKU": "PS-WD487",
+    "dimensions": "13.5x12.8x40.6",
+    "title": "Glass Door\nTop Loading Water Dispenser",
+    "info": [
+      "Compressor Cooling",
+      "Hot & Cold Water",
+      "5 Gallon Tank Capacity",
+      "Low Noise",
+      "Child Safety Lock"
+    ],
+    "features": [
+      [
+        "5",
+        "Cu.Ft.",
+        "Gallon Capacity"
+      ],
+      {
+        "icon": "hot&ColdWater",
+        "description": "Hot & Cold Water"
+      },
+      {
+        "icon": "compressorCooling",
+        "description": "Compressor Cooling"
+      }
+    ]
+  },
+  {
+    "category": "waterDispensers",
+    "breadcrumb": "Water Dispensers",
+    "subCategory": "topLoadWaterDispensers",
+    "SKU": "PS-WD421",
+    "dimensions": "11x13x39.4",
+    "title": "Top Loading Water Dispenser",
+    "info": [
+      "Compressor Cooling",
+      "Hot, Warm & Cold Water",
+      "5 Gallon Tank Capacity",
+      "Low Noise",
+      "Child Safety Lock"
+    ],
+    "features": [
+      [
+        "5",
+        "Cu.Ft.",
+        "Gallon Capacity"
+      ],
+      {
+        "icon": "hot&ColdWater",
+        "description": "Hot & Cold Water"
+      },
+      {
+        "icon": "compressorCooling",
+        "description": "Compressor Cooling"
+      }
+    ]
+  },
+  {
+    "category": "waterDispensers",
+    "breadcrumb": "Water Dispensers",
+    "subCategory": "topLoadWaterDispensers",
+    "SKU": "PS-WD839",
+    "dimensions": "12.2x13.2x39.8",
+    "title": "Top Loading Water Dispenser",
+    "info": [
+      "Compressor Cooling",
+      "Hot, Warm & Cold Water",
+      "5 Gallon Tank Capacity",
+      "Low Noise",
+      "Child Safety Lock"
+    ],
+    "features": [
+      [
+        "5",
+        "Cu.Ft.",
+        "Gallon Capacity"
+      ],
+      {
+        "icon": "hot&ColdWater",
+        "description": "Hot & Cold Water"
+      },
+      {
+        "icon": "compressorCooling",
+        "description": "Compressor Cooling"
+      }
+    ]
+  },
+  {
+    "category": "waterDispensers",
+    "breadcrumb": "Water Dispensers",
+    "subCategory": "thermoElectricWaterDispensers",
+    "SKU": "FW-WD419",
+    "dimensions": "10.83x11.73x15.63",
+    "title": "Top Loading Water Dispenser\nwith Cabinet Storage",
+    "info": [
+      "Compressor Cooling",
+      "Hot, Warm & Cold Water",
+      "5 Gallon Tank Capacity",
+      "Cabinet Storage",
+      "Low Noise",
+      "Child Safety Lock"
+    ],
+    "features": [
+      [
+        "5",
+        "Cu.Ft.",
+        "Gallon Capacity"
+      ],
+      {
+        "icon": "hot&ColdWater",
+        "description": "Hot & Cold Water"
+      },
+      {
+        "icon": "compressorCooling",
+        "description": "Compressor Cooling"
+      }
+    ]
+  },
+  {
+    "category": "waterDispensers",
+    "breadcrumb": "Water Dispensers",
+    "subCategory": "thermoElectricWaterDispensers",
+    "SKU": "FW-WD219",
+    "dimensions": "10.83x11.73x15.63",
+    "title": "Top Loading Water Dispenser",
+    "info": [
+      "Compressor Cooling",
+      "Hot, Warm & Cold Water",
+      "5 Gallon Tank Capacity",
+      "Energy Efficient",
+      "Low Noise",
+      "Child Safety Lock"
+    ],
+    "features": [
+      [
+        "5",
+        "Cu.Ft.",
+        "Gallon Capacity"
+      ],
+      {
+        "icon": "hot&ColdWater",
+        "description": "Hot & Cold Water"
+      },
+      {
+        "icon": "compressorCooling",
+        "description": "Compressor Cooling"
+      }
+    ]
+  }
+]

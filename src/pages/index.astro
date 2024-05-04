@@ -1,0 +1,59 @@
+---
+import Layout from '../layouts/Layout.astro'
+const path = import.meta.env.PUBLIC_URL;
+---
+
+<Layout>
+    <div class="video">
+        <video class="banner-video" loop autoplay muted playsinline>
+            <source src=`${path}assets/video/video.mp4` type="video/mp4">
+        </video>
+    </div>
+
+    <section class="categories">
+        <div class="categories__container">
+            <h2 class="categories__title" id="category">Category </h2>
+            <ul class="categories__list-new">
+                <li class="categories__item-new">
+                    <a href=`${path}fridges`>
+                        <img src=`${path}assets/img/fridges.png` alt="">
+                        <span>FRIDGES</span>
+                    </a>
+                </li>
+                <li class="categories__item-new">
+                    <a href=`${path}freezers`>
+                        <img src=`${path}assets/img/freezers.png` alt="">
+                        <span>FREEZERS</span>
+                    </a>
+                </li>
+                <li class="categories__item-new">
+                    <a href=`${path}ice-makers`>
+                        <img src=`${path}assets/img/icemakers.png` alt="">
+                        <span>ICE MAKERS</span>
+                    </a>
+                </li>
+                <li class="categories__item-new">
+                    <a href=`${path}water-dispensers`>
+                        <img src=`${path}assets/img/water.png` alt="">
+                        <span>WATER DISPENSERS</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="about-brand">
+        <div class="about-brand__container">
+            <h2 class="about-brand__title">
+                About the Brand
+            </h2>
+            <div class="about-brand__content">
+                <img src=`${path}assets/img/about-brand.jpg`>
+                <div class="about-brand__content-info">
+                    <p>Farberware is dedicated to enhancing daily life with a diverse range of innovative products, from fridges to water dispensers and ice makers. Our commitment to customer satisfaction drives us to meticulously craft designs that address their needs, ensuring every product adds significant value to your home.</p>
+                    <a href=`${path}about` class="button about-brand__button">Learn more</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</Layout>

@@ -4,5 +4,4 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
     site: 'https://turov.github.io',
     base: 'farberware-ssg',
-    output: 'static',
 });

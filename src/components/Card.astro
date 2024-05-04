@@ -1,5 +1,5 @@
 ---
-const path = import.meta.env.PUBLIC_URL ?? process.env.PUBLIC_URL;
+const path = import.meta.env.PUBLIC_URL;
 const { SKU , category} = Astro.props;
 ---
 
@@ -8,7 +8,7 @@ const { SKU , category} = Astro.props;
     <p>{path}</p>
     <a href={`${path}${SKU}`}>
         <div class="catalog__item-img-container">
-            <img src=`${path}assets/img/${category}/${SKU}.png`>
+            <img src=`../farberware-ssg/assets/img/${category}/${SKU}.png`>
         </div>
         <div class="catalog__item-description">
             <p>{SKU}</p>

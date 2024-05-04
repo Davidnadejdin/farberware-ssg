@@ -8,7 +8,7 @@ const { SKU , category} = Astro.props;
     <p>{path}</p>
     <a href={`${path}${SKU}`}>
         <div class="catalog__item-img-container">
-            <img src=`/farberware-ssg/assets/img/${category}/${SKU}.png`>
+            <img src=`${path}assets/img/${category}/${SKU}.png`>
         </div>
         <div class="catalog__item-description">
             <p>{SKU}</p>

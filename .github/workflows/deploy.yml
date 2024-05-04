@@ -17,7 +17,7 @@ permissions:
 jobs:
   build:
     env:
-      PUBLIC_URL: ${{ secrets.PUBLIC_URL }}
+      PUBLIC_URL: "/farberware-ssg/"
     runs-on: ubuntu-latest
     steps:
       - name: Checkout your repository using git

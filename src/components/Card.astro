@@ -4,7 +4,8 @@ const { SKU , category} = Astro.props;
 ---
 
 <li class="catalog__item">
-    <a href={`/..ss${path}${SKU}`}>
+    <p>{path}</p>
+    <a href={`${path}${SKU}`}>
         <div class="catalog__item-img-container">
             <img src=`${path}assets/img/${category}/${SKU}.png`>
         </div>

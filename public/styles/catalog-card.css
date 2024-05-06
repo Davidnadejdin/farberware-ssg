@@ -1,6 +1,6 @@
 .catalog-card {
     padding: 0 12px;
-    max-width: 900px;
+    max-width: 1120px;
     margin: 0 auto;
 }
 
@@ -148,7 +148,14 @@
         justify-content: space-between;
     }
 
+    .catalog-card__image {
+        /*width: 340px;*/
+        /*height: 560px;*/
+        /*object-fit: cover;*/
+        /*object-position: 50% 0;*/
+    }
+
     .catalog-card__block:nth-child(2) {
-        max-width: 524px;
+        width: 524px;
     }
 }

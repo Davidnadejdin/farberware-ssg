@@ -149,10 +149,10 @@
     }
 
     .catalog-card__image {
-        /*width: 340px;*/
-        /*height: 560px;*/
-        /*object-fit: cover;*/
-        /*object-position: 50% 0;*/
+        width: 340px;
+        height: 560px;
+        object-fit: cover;
+        object-position: 50% 0;
     }
 
     .catalog-card__block:nth-child(2) {

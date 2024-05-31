@@ -27,6 +27,11 @@ body {
     padding: 0;
     background-color: var(--color-background);
     color: var(--color-text);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 100vh;
 }
 
 *::before,

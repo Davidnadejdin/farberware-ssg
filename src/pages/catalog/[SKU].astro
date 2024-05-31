@@ -36,6 +36,7 @@ const {product} = Astro.props;
                                 </li> :
                                 <li class="catalog-card__features-item">
                                     <div class=`catalog-card__icon catalog-card__icon--${item.icon}`>
+                                        <img class="" src=`${path}assets/img/icons/${item.icon}.svg`>
                                     </div>
                                     <p class="catalog-card__features-item-description">{item.description}</p>
                                 </li>
@@ -67,7 +68,7 @@ const {product} = Astro.props;
                     <span>{product.dimensions}</span>
                 </li>
                 <li class="catalog-card__info-additional-list-item">
-                    <a href="#">Warranty</a>
+                    <a href=`${path}warranty`>Warranty</a>
                 </li>
             </ul>
             {product.colors &&

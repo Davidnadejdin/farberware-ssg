@@ -1,6 +1,7 @@
 .footer {
     background: var(--color-background);
     color: var(--color-footer);
+    width: 100%;
 }
 
 .footer__container {
@@ -19,12 +20,6 @@
 .footer__nav-link {
     color: var(--color-footer);
     text-decoration: none;
-}
-
-.footer__copyright {
-    width: 100%;
-    margin-top: 18px;
-    margin-bottom: 18px;
 }
 
 .footer__socials {
@@ -59,19 +54,16 @@
     }
 
     .footer__nav {
-        margin-left: 416px;
+        margin-left: auto;
         margin-bottom: -16px;
+        margin-right: 95px;
+        column-count: 3;
     }
 
     .footer__nav-item {
         margin-bottom: 27px;
     }
 
-    .footer__copyright {
-        /*margin-top: 0;*/
-        /*margin-bottom: 0;*/
-        max-width: 515px;
-    }
 
     .footer__socials {
         position: relative;
